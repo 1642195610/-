@@ -1,1 +1,1 @@
-点安装 - https://pypi.tuna.tsinghua.edu.cn/simple xgboost
+pip install -i https://pypi.tuna.tsinghua.edu.cn/simple xgboost(要安装的包的名字)
